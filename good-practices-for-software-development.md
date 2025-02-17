@@ -4,5 +4,6 @@
 - All points are familiar to me.
 
 ## Q2 Which area do you think you need to improve on? What are your ideas to make progress in that area?
-- Improvement in health.
-- Joining a gym
+- Improvement in following good naming conventions.
+
+- Write appropriate names regardless of length.
